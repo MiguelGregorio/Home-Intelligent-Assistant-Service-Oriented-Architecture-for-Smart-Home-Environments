@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>RegistrationForm</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<!-- MATERIAL DESIGN ICONIC FONT -->
+		<link rel="stylesheet" href="fonts/material-design-iconic-font/css/material-design-iconic-font.min.css">
+
+		<!-- STYLE CSS -->
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+
+	<body>
+
+		<div class="wrapper" style="background-image: url('images/bg-registration-form-1.jpg');" >
+			<div class="inner">
+				<div class="image-holder">
+					<img src="images/registration-form-1.png" alt="">
+				</div>
+				<form >
+					<h3>Registration Form</h3>
+					<div >
+						<input type="text" placeholder="First Name*" class="form-control" id="Fname">
+						<input type="text" placeholder="Last Name*" class="form-control" id="Lname">
+					</div>
+					<div class="form-wrapper">
+						<input type="text" placeholder="Address*" id="address" class="form-control">
+						
+					</div>
+
+					<div class="form-wrapper">
+						<input type="text" placeholder="Phone number*" id="phoneNumber" class="form-control">
+						
+					</div>
+
+					<div class="form-wrapper" >
+						<label >Birthday* </label>
+						<input style=" margin-top: 10px"  id="date" type="date" class="form-control">
+						
+					</div>
+					
+					<div class="form-wrapper">
+						<select name="" id="gender" class="form-control">
+							<option value="" disabled selected>Gender*</option>
+							<option value="M">Male</option>
+							<option value="F">Female</option>
+							<option value="O">Other</option>
+						</select>
+						<i class="zmdi zmdi-caret-down" style="font-size: 17px"></i>
+					</div>
+					<div class="form-wrapper">
+						<input type="text" placeholder="Email*" id="email" class="form-control">
+						
+					</div>
+					<div class="form-wrapper">
+						<input type="password" placeholder="Password*" id="password" class="form-control">
+						<i class="zmdi zmdi-lock"></i>
+					</div>
+					<div class="form-wrapper">
+						<input type="password" placeholder="Confirm Password*" id="confirmpass" class="form-control">
+						<i class="zmdi zmdi-lock"></i>
+					</div>
+					<input id="mouseclick" type="button" value="Registar" onclick="ClickRegistar()"></input><br><br>
+			<label id="lbltipAddedComment"></label>
+				</form>
+			</div>
+		</div>
+		<script src="javaS.js"  ></script>
+	</body>
+</html>

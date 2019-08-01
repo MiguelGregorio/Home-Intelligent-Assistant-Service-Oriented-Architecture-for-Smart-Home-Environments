@@ -1,0 +1,14 @@
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\bin\Debug\netcoreapp2.1\HIAWebService.deps.json
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\bin\Debug\netcoreapp2.1\HIAWebService.runtimeconfig.json
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\bin\Debug\netcoreapp2.1\HIAWebService.runtimeconfig.dev.json
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\bin\Debug\netcoreapp2.1\HIAWebService.dll
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\bin\Debug\netcoreapp2.1\HIAWebService.pdb
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\obj\Debug\netcoreapp2.1\HIAWebService.csprojAssemblyReference.cache
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\obj\Debug\netcoreapp2.1\HIAWebService.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\obj\Debug\netcoreapp2.1\HIAWebService.RazorAssemblyInfo.cache
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\obj\Debug\netcoreapp2.1\HIAWebService.RazorAssemblyInfo.cs
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\obj\Debug\netcoreapp2.1\HIAWebService.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\obj\Debug\netcoreapp2.1\HIAWebService.AssemblyInfo.cs
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\obj\Debug\netcoreapp2.1\HIAWebService.RazorTargetAssemblyInfo.cache
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\obj\Debug\netcoreapp2.1\HIAWebService.dll
+C:\Users\migue\Desktop\Projeto\HiaWebService\HIAWebService\HIAWebService\obj\Debug\netcoreapp2.1\HIAWebService.pdb
