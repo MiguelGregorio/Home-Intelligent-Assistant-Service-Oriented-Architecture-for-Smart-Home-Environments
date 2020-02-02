@@ -15,7 +15,7 @@ namespace HIAWebService.Controllers
     {
 
         //connection string
-        private string conStr = "Server=tcp:hiadatabases2.database.windows.net; Database=HIADataBase; User ID =miguelbruno@hiadatabases2;Password=1qazZAQ!; Trusted_Connection=False; Encrypt=True";
+        private string conStr = "Server=tcp:hiadatabases2.database.windows.net; Database=HIADataBase; User ID =miguelbruno@hiadatabases2;Password=*********; Trusted_Connection=False; Encrypt=True";
 
 
 
